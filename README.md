@@ -8,7 +8,7 @@ The objective of this project is to analyze customer data using Power BI and cre
 
 ### Dataset Overview:
 
-- *File Name:* customer.csv
+- *File Name:* churn_modling.csv
 - *Description:* This dataset contains customer-related information, including demographics, purchase history, and other attributes relevant for business analysis.
 
 ### Power BI Implementation:
