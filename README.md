@@ -1,6 +1,5 @@
 # PowerBI_assignment2
-# PowerBI_assignment
-## Customer Data Analysis
+## Bank Data Analysis
 
 ### Objective:
 The objective of this project is to analyze customer data using Power BI and create insightful visualizations to understand key trends, patterns, and performance metrics.
